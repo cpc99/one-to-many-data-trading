@@ -1,4 +1,2 @@
-# one-to-many-data-trading
-1
-2
-3
+# IoTMarketplaces
+A hyperledger blockchain based marketplace for buying and selling IoT data at rest and motion.
